@@ -1,0 +1,11 @@
+name: gtest-fail
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - gtest
+  - gmock
+  - cmake
+  - c-compiler
+  - cxx-compiler
+  - ninja
